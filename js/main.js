@@ -21,3 +21,27 @@ document.getElementById('startc1').addEventListener('click', function () {
   // Show #cday1
   document.getElementById('cday1').style.display = 'block';
 });
+
+document.getElementById('startc2').addEventListener('click', function () {
+  // Hide #day2
+  document.getElementById('day2').style.display = 'none';
+
+  // Show #cday2
+  document.getElementById('cday2').style.display = 'block';
+});
+
+document.getElementById('startc3').addEventListener('click', function () {
+  // Hide #day3
+  document.getElementById('day3').style.display = 'none';
+
+  // Show #cday3
+  document.getElementById('cday3').style.display = 'block';
+});
+
+document.getElementById('startc4').addEventListener('click', function () {
+  // Hide #day1
+  document.getElementById('day4').style.display = 'none';
+
+  // Show #cday1
+  document.getElementById('cday4').style.display = 'block';
+});

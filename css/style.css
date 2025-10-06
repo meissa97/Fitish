@@ -197,7 +197,9 @@ h1{
 td{
     text-transform: capitalize;
 }
-#startc1, #done{
+#startc1,#startc2,
+ #startc3, #startc4,
+  #done{
     margin:1rem auto;
     display: block;
 }
