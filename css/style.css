@@ -109,7 +109,9 @@ h1{
   transform: translateY(-30px);
 }
 
-
+.welcome-workout li{
+    margin-bottom: 18px;
+}
 @keyframes fadeInFromTop {
   0% {
     opacity: 0;
@@ -230,4 +232,5 @@ td{
         text-align: center;
         line-height:1.4;
         font-size: 2rem;
+        background-color: #111111c4;
 }
